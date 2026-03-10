@@ -16,4 +16,10 @@
         android:name="com.example.fitbit2.DashboardFragment"
         android:label="Dashboard"
         tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.fitbit2.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
