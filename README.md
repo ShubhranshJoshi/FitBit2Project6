@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 EZGIF
-![me](https://github.com/ShubhranshJoshi/FitBit2Project6/blob/master/Screen_recording_20260309_232806-ezgif.com-video-to-gif-converter.gif)
+![me](https://github.com/ShubhranshJoshi/FitBit2Project6/blob/master/Screen_recording_20260309_234832-ezgif.com-video-to-gif-converter.gif)
 
 ## Notes
 
